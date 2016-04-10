@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1459604159 source:c:\users\sony\desktop\计算机网络课程设计\winsockraw\main.cpp
+	<iostream>
+	"winsock2.h"
+
+1459649602 source:c:\users\sony\desktop\network design\winsockraw\main.cpp
+	<iostream>
+	"winsock2.h"
+
